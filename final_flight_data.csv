@@ -1,0 +1,6 @@
+Airline Code,DelayTimes,FlightCodes,From,To
+Air Canada,"[21, 40]",20015,WATERLOO,NEWYORK
+Air France 12,[],1020,MONTREAL,TORONTO
+Porter Airways,"[60, 22, 87]",20035,CALGARY,OTTAWA
+12 Air France,"[78, 66]",1040,OTTAWA,VANCOUVER
+Lufthansa,"[12, 33]",20055,LONDON,MONTREAL

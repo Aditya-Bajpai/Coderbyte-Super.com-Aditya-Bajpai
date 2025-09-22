@@ -1,0 +1,6 @@
+Airline Code;DelayTimes;FlightCodes;To_From
+Air Canada (!);[21, 40];20015.0;WAterLoo_NEWYork
+<Air France> (12);[];;Montreal_TORONTO
+(Porter Airways. );[60, 22, 87];20035.0;CALgary_Ottawa
+12. Air France;[78, 66];;Ottawa_VANcouvER
+""".\.Lufthansa.\.""";[12, 33];20055.0;london_MONTreal
